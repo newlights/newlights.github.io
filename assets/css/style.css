@@ -115,7 +115,8 @@ body.page-template-page-fullsingle-me h1 {
   font-size: 3rem;
   color: bisque;
 }
-
+p{color: rgb(214, 231, 226); 
+}
 .fs-me {
   padding: 10vh 10vw;
   overflow: hidden;
